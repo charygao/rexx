@@ -9,7 +9,7 @@ banner = """
             | | |  __/>  <  >  <
             |_|  \___/_/\_\/_/\_\
 
-                  Jake Bolam
+            Jake Bolam - Daley bee
 
 """
 print(banner)
