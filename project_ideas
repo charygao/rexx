@@ -1,0 +1,25 @@
+Rex - All in one recon tool
+
+Subdomain Discovery - (Aquatone Inspired)
+  - Dictionary
+  - DNS
+  - Shodan
+  - VirusTotal
+  - Censys
+  - PublicWWW
+  - DNS Dumpster
+
+
+Check subdomain status (404, 302, 200 etc)
+Filter out dead subdomains
+
+Port scan all domains and IPs with a special list.
+
+look for shit like
+  - Web servers - Take a screenshot of the webpage, pull http header info and identify framework (wordpress, joomla etc)
+  - RDP servers - test top 10 creds
+  - VNC servers - test top 10 creds
+  - FTP servers - test top 10 creds, try unauthenticated login (anonymous login) - check version
+  - SSH servers - test top 10 creds - check for version
+
+Generate HTML report
